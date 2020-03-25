@@ -16,9 +16,9 @@
 
 ## Categories
 
-* [Python](#python)
-* [RSpec](#rspec)
-* [Ruby](#ruby)
+* [Python](#python) {0}
+* [RSpec](#rspec) {0}
+* [Ruby](#ruby) {0}
 
 ---
 
