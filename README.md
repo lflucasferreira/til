@@ -8,9 +8,9 @@
 
 ## Categories
 
-* Python(#python)
-* RSpec(#rspec)
-* Ruby(#ruby)
+* [Python](#python)
+* [RSpec](#rspec)
+* [Ruby](#ruby)
 
 ---
 
