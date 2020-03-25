@@ -2,6 +2,14 @@
 
 # TIL
 
+![](https://sotodayilearned.com/wp-content/uploads/2017/02/So-Today-I-Learned-Logo.png)
+
+- [ ] 1º - 
+- [ ] 2º - 
+- [ ] 3º - 
+- [ ] 4º - 
+- [ ] 5º - 
+
 0 TILs and counting
 
 ---
